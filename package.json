@@ -8,7 +8,7 @@
     "eslint:fix": "eslint *.js */.js --fix"
   },
   "dependencies": {
-    "body-parser": "~1.18.2",
+    "body-parser": "~1.19.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "dotenv": "^5.0.1",
